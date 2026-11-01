@@ -1,0 +1,10 @@
+{
+  "name": "goclaude",
+  "description": "Plan and design a website that doesn't look AI-made: brand + StoryBrand + decluttered nav + accessible motion, from a URL and 1-3 inspiration brands.",
+  "version": "1.0.0",
+  "author": { "name": "Joe Chura" },
+  "homepage": "https://github.com/joechura/goclaude",
+  "repository": "https://github.com/joechura/goclaude",
+  "license": "MIT",
+  "keywords": ["design", "website", "storybrand", "accessibility", "ux", "redesign"]
+}
