@@ -46,6 +46,8 @@
 | Corner radius | | |
 | Spacing scale | | |
 
+**Lead brand:** [brand]. Look read: page color [ ] · photo share [ ] · title size/style [ ] · section rhythm [ ] · text amount [ ]
+
 **Borrowed moves:**
 - [Brand]: [move] → [where used]
 

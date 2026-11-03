@@ -28,5 +28,7 @@ For **each** inspiration brand, after actually visiting its site, name **2–3 s
 
 Write the source brand next to every design decision in `DESIGN.md`. If a decision has no source (org brand, inspiration move, or accessibility rule), question it.
 
+Moves come second. If the page doesn't already match the lead brand's overall look (`look-match.md`), adding moves won't fix it.
+
 ## Final check before showing the user
 Take a screenshot (or render) of the homepage at phone and desktop width and ask: "If I removed the logo, could this be any other org's site?" If yes, it's still generic. Find the defaults and replace them.
